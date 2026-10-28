@@ -53,6 +53,9 @@ nav{
  
 }
 main{
+    max-width: 900px;
+    padding: 20px;
+    margin: auto;
     flex-grow:1;
 }
 nav a{
